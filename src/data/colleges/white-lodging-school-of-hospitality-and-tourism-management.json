@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Matthew J. Bauman",
+    "department": "Hospitality and Tourism Management",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Consumer Behavior",
+      "Wine Marketing",
+      "Food and Beverage Management"
+    ]
+  },
+  {
+    "name": "Kwangsoo Park",
+    "department": "Hospitality and Tourism Management",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Disability Inclusion",
+      "Event Management",
+      "Quality of Life"
+    ]
+  },
+  {
+    "name": "Godwin-Charles Ogbeide",
+    "department": "Hospitality and Tourism Management",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Leadership Strategy",
+      "Marketing Strategies",
+      "Well-being"
+    ]
+  }
+]

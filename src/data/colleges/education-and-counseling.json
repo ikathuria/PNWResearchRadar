@@ -1,0 +1,46 @@
+[
+  {
+    "name": "David Pratt",
+    "department": "Education",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Educational Leadership",
+      "Curriculum Design"
+    ]
+  },
+  {
+    "name": "Anne E. Gregory",
+    "department": "Education",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Special Education",
+      "Inclusive Practices"
+    ]
+  },
+  {
+    "name": "Emily Hixon",
+    "department": "Education",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Instructional Technology",
+      "Teacher Professional Development"
+    ]
+  },
+  {
+    "name": "Jessica T. Ivy",
+    "department": "Education",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Educational Psychology",
+      "Student Motivation"
+    ]
+  }
+]

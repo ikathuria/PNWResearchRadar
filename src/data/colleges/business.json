@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Scott Schaller",
+    "department": "Quantitative Business Studies",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Quantitative Business",
+      "Accounting"
+    ]
+  },
+  {
+    "name": "Carin Chuang",
+    "department": "Quantitative Business Studies",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Business Analytics",
+      "Information Systems"
+    ]
+  },
+  {
+    "name": "Shontrai Irving",
+    "department": "Quantitative Business Studies",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Business Law",
+      "Ethics"
+    ]
+  },
+  {
+    "name": "Arifin Angriawan",
+    "department": "Managerial Studies",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Marketing Strategy",
+      "Consumer Behavior"
+    ]
+  },
+  {
+    "name": "Claudia C. Mich",
+    "department": "Managerial Studies",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "International Business",
+      "Marketing"
+    ]
+  }
+]

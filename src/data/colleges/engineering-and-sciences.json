@@ -1,0 +1,145 @@
+[
+  {
+    "name": "J. Curtis Creighton",
+    "department": "Biological Sciences",
+    "email": "creighto@pnw.edu",
+    "phone": "(219) 989-2617",
+    "room_number": "NILS 340B",
+    "ongoing_research": [
+      "Cell and Molecular Biology",
+      "Ecology and Evolution"
+    ]
+  },
+  {
+    "name": "Ernest Talarico",
+    "department": "Biological Sciences",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Anatomy",
+      "Physiology"
+    ]
+  },
+  {
+    "name": "Mitchell S. Alix",
+    "department": "Biological Sciences",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Ecology",
+      "Evolution"
+    ]
+  },
+  {
+    "name": "Michael I. Zimmer",
+    "department": "Biological Sciences",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Human Health",
+      "Clinical Research"
+    ]
+  },
+  {
+    "name": "Barbara Mania-Farnell",
+    "department": "Biological Sciences",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Transcription Factors",
+      "Neural Tube Development"
+    ]
+  },
+  {
+    "name": "John Durocher",
+    "department": "Biological Sciences",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Integrative Human Health",
+      "Physiology"
+    ]
+  },
+  {
+    "name": "Neeti Parashar",
+    "department": "Chemistry and Physics",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Higgs Boson",
+      "Fundamental Physics"
+    ]
+  },
+  {
+    "name": "James W. Dolen",
+    "department": "Chemistry and Physics",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Particle Physics",
+      "LHC Experiments"
+    ]
+  },
+  {
+    "name": "Reynaldo Barreto",
+    "department": "Chemistry and Physics",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Photocatalysis",
+      "Environmental Remediation"
+    ]
+  },
+  {
+    "name": "Charles Steele",
+    "department": "Chemistry and Physics",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Forensic Science",
+      "Fingerprint Development"
+    ]
+  },
+  {
+    "name": "Shuhui Grace Yang",
+    "department": "Computer Science",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Wireless Networking",
+      "Mobile Computing"
+    ]
+  },
+  {
+    "name": "Wei David Dai",
+    "department": "Computer Science",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Machine Learning",
+      "Data Mining"
+    ]
+  },
+  {
+    "name": "Shafkat Islam",
+    "department": "Computer Science",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Cybersecurity",
+      "Network Security"
+    ]
+  }
+]

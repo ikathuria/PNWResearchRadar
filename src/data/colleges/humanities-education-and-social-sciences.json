@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Michael R. Lynn",
+    "department": "History",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Enlightenment Europe",
+      "History of Science"
+    ]
+  },
+  {
+    "name": "Yu Ouyang",
+    "department": "Political Science",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "American Presidency",
+      "Public Opinion"
+    ]
+  },
+  {
+    "name": "Amlan Mitra",
+    "department": "Economics",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Economic Development",
+      "Quantitative Methods"
+    ]
+  },
+  {
+    "name": "Meg Bergin Rincker",
+    "department": "Political Science",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Comparative Politics",
+      "Gender and Politics"
+    ]
+  }
+]

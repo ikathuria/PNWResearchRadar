@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Magesh Chandramouli",
+    "department": "Computer Graphics Technology",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Computer Graphics",
+      "Virtual Reality",
+      "Fulbright Research"
+    ]
+  },
+  {
+    "name": "Ali Alavizadeh",
+    "department": "Industrial Engineering Technology",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "System Simulation",
+      "Process Improvement"
+    ]
+  },
+  {
+    "name": "Ricardo Calix",
+    "department": "Computer Information Technology",
+    "email": "",
+    "phone": "",
+    "room_number": "",
+    "ongoing_research": [
+      "Machine Learning",
+      "Cybersecurity"
+    ]
+  }
+]
