@@ -1,10 +1,23 @@
 [
   {
-    "name": "Matthew J. Bauman",
+    "name": "Kuan-Chou Chen",
+    "title": "Interim Director of White Lodging School of Hospitality and Tourism Management",
     "department": "Hospitality and Tourism Management",
-    "email": "",
-    "phone": "",
-    "room_number": "",
+    "email": "kchen@pnw.edu",
+    "phone": "(219) 989-2336",
+    "room_number": "Hammond, Anderson Building 305",
+    "ongoing_research": [
+      "Hospitality Management",
+      "Tourism Technology"
+    ]
+  },
+  {
+    "name": "Matthew J. Bauman",
+    "title": "Assistant Professor of Hospitality and Tourism Management",
+    "department": "Hospitality and Tourism Management",
+    "email": "mjbauman@pnw.edu",
+    "phone": "(219) 989-8304",
+    "room_number": "Hammond, HTMB 123",
     "ongoing_research": [
       "Consumer Behavior",
       "Wine Marketing",
@@ -12,27 +25,51 @@
     ]
   },
   {
-    "name": "Kwangsoo Park",
+    "name": "Chynisse Browder",
+    "title": "Academic and Student Success Advisor",
     "department": "Hospitality and Tourism Management",
-    "email": "",
-    "phone": "",
-    "room_number": "",
+    "email": "browder@pnw.edu",
+    "phone": "219-989-2588",
+    "room_number": "Hammond, HTMB 191",
     "ongoing_research": [
-      "Disability Inclusion",
-      "Event Management",
-      "Quality of Life"
+      "Student Advising",
+      "Academic Success"
     ]
   },
   {
-    "name": "Godwin-Charles Ogbeide",
+    "name": "Sarala Morrow",
+    "title": "Visiting Instructor",
     "department": "Hospitality and Tourism Management",
-    "email": "",
-    "phone": "",
-    "room_number": "",
+    "email": "symorrow@pnw.edu",
+    "phone": "(219) 989-2383",
+    "room_number": "Hammond, HTMB 127",
     "ongoing_research": [
-      "Leadership Strategy",
-      "Marketing Strategies",
-      "Well-being"
+      "Hospitality Education",
+      "Event Planning"
+    ]
+  },
+  {
+    "name": "Ezra Mutai",
+    "title": "Assistant Professor of Food and Nutrition",
+    "department": "Hospitality and Tourism Management",
+    "email": "emutai@pnw.edu",
+    "phone": "(219) 989-2615",
+    "room_number": "Hammond, HTMB 125",
+    "ongoing_research": [
+      "Food Science",
+      "Nutritional Studies"
+    ]
+  },
+  {
+    "name": "Pitparnee Stompor",
+    "title": "Clinical Professor of HTM",
+    "department": "Hospitality and Tourism Management",
+    "email": "pitparnee.stompor@pnw.edu",
+    "phone": "(219) 989-8305",
+    "room_number": "Hammond, HTMB 134",
+    "ongoing_research": [
+      "Hospitality Operations",
+      "Tourism Analytics"
     ]
   }
 ]

@@ -93,6 +93,7 @@ function App() {
             <div className="professor-card" key={index}>
               <div className="card-header">
                 <h3>{prof.name}</h3>
+                {prof.title && <div className="title" style={{ fontStyle: 'italic', marginBottom: '4px', color: 'var(--text-light)', fontSize: '0.9rem' }}>{prof.title}</div>}
                 <span className="department">{prof.department}</span>
               </div>
               <div className="card-body">
